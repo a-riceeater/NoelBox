@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+body {
+    background-color: #0A1420;
+    font-family: "Roboto", sans-serif;
+}
+
+.container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 550px;
+    height: 85%;
+    transform: translate(-50%, -50%);
+    background-color: #112236;
+    border-radius: 3.5px;
+    text-align: center;
+    color: white;
+}
+
+#select {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 35px;
+    width: 100%;
+    display: flex;
+}
+
+#select > #select-connect {
+    position: absolute;
+    left: 0%;
+    width: 50%;
+    top: 0%;
+    border-bottom: 1px solid white;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+#select > #select-create {
+    position: absolute;
+    right: 0%;
+    width: 50%;
+    top: 0%;
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+#select > .selected {
+    background-color: #283f5a;
+}
+
+.cc {
+    position: absolute;
+    left: 0%;
+    top: 35px;
+    width: 100%;
+    height: calc(100% - 35px);
+    display: none;
+    padding-top: 25px;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.cc > h1 {
+    padding-bottom: 55px;
+    text-align: center;
+}
+
+.selected-screen {
+    display: block !important;
+}
+
+.lb {
+    text-align: left;
+    margin-left: 35px;
+}
+
+.df-inp {
+    text-align: left;
+    margin-left: 35px;
+    width: 65%;
+    height: 35px;
+    border-radius: 10px / 10px;
+    border: 1px solid rgb(22, 22, 22);
+    background-color: rgb(36, 35, 35);
+    outline: 0;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 15px;
+    font-size: 15.5px;
+    text-transform: uppercase;
+}
