@@ -1,0 +1,184 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+body {
+    background-color: #0A1420;
+    font-family: "Roboto", sans-serif;
+}
+
+* {
+    user-select: none;
+}
+
+#gameCode {
+    color: white;
+    position: fixed;
+    right: 1%;
+    top: 1%;
+    font-size: 28px;
+    animation: fs 4s infinite ease-in-out;
+}
+
+#nb {
+    color: white;
+    position: fixed;
+    left: 1.5%;
+    top: .5%;
+    font-size: 25px;
+}
+
+#gameCode > span {
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.player-icon {
+    height: 128px;
+    width: 128px;
+    border-radius: 100%;
+}
+
+.player-box {
+    text-align: center;
+    color: lightgray;
+    width: 128px;
+    border: 1px solid lightgray;
+    border-radius: 20px / 20px;
+    transition: 3s !important;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+
+.player-box > p {
+    margin-top: 0;
+}
+
+#ap-title {
+    color: white;
+    font-weight: lighter;
+}
+
+#awaiting-players {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    height: 75%;
+    width: 75%;
+    text-align: center;
+    background-color: #112236;
+    transform: translate(-50%, -50%);
+    border-radius: 25px / 25px;
+}
+
+#awaiting-players > #ap-title > .dots {
+    animation: dots 4s infinite ease-in-out;
+    content: "."
+}
+
+@keyframes fs {
+    0% {
+        scale: 1;
+    }
+    50% {
+        scale: .9;
+    }
+    100% {
+        scale: 1;
+    }
+}
+
+@keyframes dot {
+    0% {
+        content: "."
+    }
+    50% {
+        content: ".."
+    }
+    100% {
+        content: "..."
+    }
+}
+
+#host-log {
+    color: lightgray;
+    position: fixed;
+    bottom: 3%;
+    left: 1%;
+}
+
+#start-game-btn {
+    position: fixed;
+    right: 1%;
+    bottom: 3%;
+    height: 45px;
+    width: 450px;
+    border: 1px solid rgb(22, 22, 22);
+    background-color: rgb(36, 35, 35);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15.5px;
+    cursor: pointer;
+    border-radius: 15px / 15px;
+    transition: 1s;
+    opacity: 1;
+}
+
+.disabled {
+    opacity: 0.5 !important;
+    cursor: not-allowed !important;
+}
+
+#game-instructions, #questions-screen {
+    position: absolute;
+    top: 50%;
+    transform: translate(0%, -50%);
+    width: 100%;
+    left: 0%;
+    color: white;
+}
+
+#game-instructions > p, #questions-screen > p {
+    font-size: 18px;
+    transition: 1s;
+}
+
+@keyframes spin {
+    0% {
+        rotate: 0deg;
+    }
+    50% {
+        rotate: 180deg;
+    }
+    100% {
+        rotate: 360deg;
+    }
+}
+
+#qs-timer {
+    margin-top: 40px;
+    color: lightcoral !important;
+    font-size: 22px;
+    text-decoration: none !important;
+}
+
+#qs-anser {
+    color: lightseagreen !important;
+    margin-top: 0;
+    font-size: 16.5px !important;
+    text-decoration: none !important;
+}
+
+#questions-screen > p {
+    color: lightgray;
+}
+
+#questions-screen > h1 {
+    font-size: 28px;
+    text-decoration: none !important;
+}
+
+.correct-a {
+    scale: 1.5 !important;
+    color: green !important;
+    text-decoration: none !important;
+}

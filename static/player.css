@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+body {
+    background-color: #0A1420;
+    font-family: "Roboto", sans-serif;
+}
+
+.topbar {
+    position: fixed;
+    width: 100%;
+    height: 55px;
+    background-color: #112236;
+    top: 0%;
+    left: 0%;
+}
+
+#pas {
+    position: absolute;
+    right: 1%;
+    top: 50%;
+    transform: translate(0%, -50%);
+    color: white;
+    margin-top: 0;
+}
+
+#nb {
+    position: absolute;
+    top: 50%;
+    left: 1%;
+    color: white;
+    transform: translate(0%, -50%);
+    margin-top: 0;
+}
+
+#gameContainer {
+    position: fixed;
+    top: 53%;
+    left: 50%;
+    width: 600px;
+    height: 85%;
+    transform: translate(-50%, -50%);
+    background-color: #112236;
+    border-radius: 3.5px;
+    text-align: center;
+    color: lightgray;
+    border-radius: 15px / 15px;
+    overflow: hidden;
+}
+
+#gameContainer h1 {
+    color: white !important;
+}
+
+.gs {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+}
+
+.q-sel-o {
+    cursor: pointer;
+}
+
+.q-sel-s {
+    font-weight: bold;
+    color: lightseagreen;
+}
+
+#q-sub-btn {
+    height: 45px;
+    width: 40%;
+    border: 1px solid rgb(22, 22, 22);
+    background-color: rgb(36, 35, 35);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15.5px;
+    cursor: pointer;
+    border-radius: 15px / 15px;
+    transition: 1s;
+    opacity: 1;
+    margin-top: 25px;
+}
+
+#spinner {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: #f2f2f2;
+    overflow: hidden;
+    transition: 4s;
+    transform: rotate(0deg);
+}
+
+#arrow {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 30px solid red; /* Change color and size as needed */
+    left: calc(50% - 15px);
+    top: 20px;
+    transform-origin: bottom center;
+    transform: rotate(280deg);
+    transition: transform 3s ease-in-out;
+}
+
+.section {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    clip-path: polygon(50% 50%, 100% 0, 100% 100%);
+    transform-origin: center;
+    border: 2px solid #112236; /* Add border to separate sections */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px; /* Adjust font size as needed */
+    font-weight: bold;
+    color: #fff; /* Text color inside sections */
+    border-left: 2px solid black;
+}
+
+.section:nth-child(1) {
+    transform: rotate(0deg);
+    background-color: green;
+}
+
+.section:nth-child(2) {
+    transform: rotate(60deg);
+    background-color: gray;
+}
+
+.section:nth-child(3) {
+    transform: rotate(120deg);
+    background-color: gray;
+}
+
+.section:nth-child(4) {
+    transform: rotate(180deg);
+    background-color: red;
+}
+
+.section:nth-child(5) {
+    transform: rotate(240deg);
+    background-color: gray;
+}
+
+.section:nth-child(6) {
+    transform: rotate(300deg);
+    background-color: gray;
+}
+
+.section.selected {
+    background-color: blue;
+}

@@ -16,6 +16,8 @@ body {
     border-radius: 3.5px;
     text-align: center;
     color: white;
+    border-radius: 15px / 15px;
+    overflow: hidden;
 }
 
 #select {
@@ -82,6 +84,7 @@ body {
 .lb {
     text-align: left;
     margin-left: 35px;
+    margin-top: 25px;
 }
 
 .df-inp {
@@ -98,4 +101,20 @@ body {
     padding-left: 15px;
     font-size: 15.5px;
     text-transform: uppercase;
+}
+
+.finish-btn {
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    height: 45px;
+    width: 90%;
+    border-radius: 15px / 15px;
+    cursor: pointer;
+    border: 1px solid rgb(22, 22, 22);
+    background-color: rgb(36, 35, 35);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15.5px;
 }

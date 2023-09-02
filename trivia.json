@@ -1,0 +1,1060 @@
+{
+    "questions": [
+      {
+        "q": "What is the largest planet in our solar system?",
+        "o": ["Mercury", "Venus", "Saturn", "Jupiter"],
+        "a": "Jupiter"
+      },
+      {
+        "q": "Who wrote the play 'Macbeth'?",
+        "o": ["William Shakespeare", "Jane Austen", "Leo Tolstoy", "Emily Dickinson"],
+        "a": "William Shakespeare"
+      },
+      {
+        "q": "What is the currency of Japan?",
+        "o": ["Yuan", "Euro", "Dollar", "Yen"],
+        "a": "Yen"
+      },
+      {
+        "q": "Which famous artist painted the 'Mona Lisa'?",
+        "o": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci", "Salvador Dali"],
+        "a": "Leonardo da Vinci"
+      },
+      {
+        "q": "Which country is known as the 'Land of the Rising Sun'?",
+        "o": ["China", "South Korea", "Japan", "Thailand"],
+        "a": "Japan"
+      },
+      {
+        "q": "What is the largest organ in the human body?",
+        "o": ["Heart", "Liver", "Brain", "Skin"],
+        "a": "Skin"
+      },
+      {
+        "q": "Who is known as the 'Father of Modern Physics'?",
+        "o": ["Albert Einstein", "Galileo Galilei", "Isaac Newton", "Max Planck"],
+        "a": "Albert Einstein"
+      },
+      {
+        "q": "Which country is home to the famous landmark, the Eiffel Tower?",
+        "o": ["Germany", "France", "Italy", "Spain"],
+        "a": "France"
+      },
+      {
+        "q": "Who is the author of the novel 'To Kill a Mockingbird'?",
+        "o": ["Harper Lee", "F. Scott Fitzgerald", "Mark Twain", "George Orwell"],
+        "a": "Harper Lee"
+      },
+      {
+        "q": "Which river is the longest in the world?",
+        "o": ["Nile River", "Amazon River", "Mississippi River", "Yangtze River"],
+        "a": "Nile River"
+      },
+      {
+        "q": "What is the largest ocean in the world?",
+        "o": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "a": "Pacific Ocean"
+      },
+      {
+        "q": "Who wrote the play 'Hamlet'?",
+        "o": ["William Shakespeare", "Anton Chekhov", "Leo Tolstoy", "Oscar Wilde"],
+        "a": "William Shakespeare"
+      },
+      {
+        "q": "In which city was the first modern Olympic Games held in 1896?",
+        "o": ["Paris", "London", "Athens", "Rome"],
+        "a": "Athens"
+      },
+      {
+        "q": "What is the capital city of Brazil?",
+        "o": ["Rio de Janeiro", "Sao Paulo", "Brasilia", "Buenos Aires"],
+        "a": "Brasilia"
+      },
+      {
+        "q": "Who is the protagonist in 'The Lord of the Rings' trilogy?",
+        "o": ["Frodo Baggins", "Gandalf", "Aragorn", "Legolas"],
+        "a": "Frodo Baggins"
+      },
+      {
+        "q": "Which country is known as the 'Land of Smiles'?",
+        "o": ["China", "Japan", "Thailand", "India"],
+        "a": "Thailand"
+      },
+      {
+        "q": "What is the largest species of penguins?",
+        "o": ["King Penguin", "Emperor Penguin", "Gentoo Penguin", "Adélie Penguin"],
+        "a": "Emperor Penguin"
+      },
+      {
+        "q": "Which city is known as the 'Big Apple'?",
+        "o": ["Los Angeles", "Chicago", "New York City", "Dallas"],
+        "a": "New York City"
+      },
+      {
+        "q": "In Greek mythology, who is the king of the gods?",
+        "o": ["Hades", "Poseidon", "Zeus", "Apollo"],
+        "a": "Zeus"
+      },
+      {
+        "q": "What is the largest desert in the world?",
+        "o": ["Gobi Desert", "Sahara Desert", "Arabian Desert", "Atacama Desert"],
+        "a": "Sahara Desert"
+      },
+      {
+        "q": "Who is the author of the 'Harry Potter' book series?",
+        "o": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Suzanne Collins"],
+        "a": "J.K. Rowling"
+      },
+      {
+        "q": "Which mountain is the tallest in the world?",
+        "o": ["Kilimanjaro", "Mount Everest", "Mount McKinley", "Mount Fuji"],
+        "a": "Mount Everest"
+      },
+      {
+        "q": "What is the national flower of Japan?",
+        "o": ["Cherry Blossom", "Rose", "Lily", "Tulip"],
+        "a": "Cherry Blossom"
+      },
+      {
+        "q": "Who painted the ceiling of the Sistine Chapel?",
+        "o": ["Raphael", "Leonardo da Vinci", "Michelangelo", "Rembrandt"],
+        "a": "Michelangelo"
+      },
+      {
+        "q": "What is the largest continent in the world?",
+        "o": ["Africa", "Europe", "Asia", "North America"],
+        "a": "Asia"
+      },
+      {
+        "q": "What is the chemical symbol for gold?",
+        "o": ["Au", "Ag", "Go", "Gl"],
+        "a": "Au"
+      },
+      {
+        "q": "Who is the author of the novel '1984'?",
+        "o": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "F. Scott Fitzgerald"],
+        "a": "George Orwell"
+      },
+      {
+        "q": "Which country is known as the 'Land of Fire and Ice'?",
+        "o": ["Iceland", "Greenland", "Norway", "Canada"],
+        "a": "Iceland"
+      },
+      {
+        "q": "What is the capital city of Spain?",
+        "o": ["Barcelona", "Madrid", "Seville", "Valencia"],
+        "a": "Madrid"
+      },
+      {
+        "q": "Who is the author of the novel 'The Catcher in the Rye'?",
+        "o": ["J.D. Salinger", "Ernest Hemingway", "F. Scott Fitzgerald", "Mark Twain"],
+        "a": "J.D. Salinger"
+      },
+      {
+        "q": "In which year did the Titanic sink?",
+        "o": ["1908", "1912", "1916", "1920"],
+        "a": "1912"
+      },
+      {
+        "q": "What is the chemical symbol for oxygen?",
+        "o": ["O", "Ox", "O2", "Oy"],
+        "a": "O"
+      },
+      {
+        "q": "Which famous scientist developed the theory of evolution by natural selection?",
+        "o": ["Charles Darwin", "Isaac Newton", "Marie Curie", "Gregor Mendel"],
+        "a": "Charles Darwin"
+      },
+      {
+        "q": "Who is the author of the novel 'The Hobbit'?",
+        "o": ["George R.R. Martin", "J.R.R. Tolkien", "J.K. Rowling", "Stephen King"],
+        "a": "J.R.R. Tolkien"
+      },
+      {
+        "q": "Which city hosted the 2016 Summer Olympics?",
+        "o": ["Beijing", "London", "Rio de Janeiro", "Tokyo"],
+        "a": "Rio de Janeiro"
+      },
+      {
+        "q": "What is the chemical symbol for carbon?",
+        "o": ["C", "Ca", "Co", "Cr"],
+        "a": "C"
+      },
+      {
+        "q": "Who wrote the play 'Romeo and Juliet'?",
+        "o": ["William Shakespeare", "Jane Austen", "Charles Dickens", "Mark Twain"],
+        "a": "William Shakespeare"
+      },
+      {
+        "q": "What is the largest species of shark?",
+        "o": ["Great White Shark", "Hammerhead Shark", "Whale Shark", "Tiger Shark"],
+        "a": "Whale Shark"
+      },
+      {
+        "q": "Which country is known as the 'Land of the Midnight Sun'?",
+        "o": ["Norway", "Sweden", "Finland", "Denmark"],
+        "a": "Norway"
+      },
+      {
+        "q": "What is the capital city of South Africa?",
+        "o": ["Pretoria", "Cape Town", "Durban", "Johannesburg"],
+        "a": "Pretoria"
+      },
+      {
+        "q": "Who wrote the play 'The Importance of Being Earnest'?",
+        "o": ["Oscar Wilde", "George Bernard Shaw", "Tennessee Williams", "Samuel Beckett"],
+        "a": "Oscar Wilde"
+      },
+      {
+        "q": "What is the largest type of penguin?",
+        "o": ["King Penguin", "Emperor Penguin", "Gentoo Penguin", "Adélie Penguin"],
+        "a": "Emperor Penguin"
+      },
+      {
+        "q": "Which country is famous for its tulip fields?",
+        "o": ["Netherlands", "Italy", "Turkey", "Switzerland"],
+        "a": "Netherlands"
+      },
+      {
+        "q": "What is the chemical symbol for uranium?",
+        "o": ["U", "Un", "Ur", "Up"],
+        "a": "U"
+      },
+      {
+        "q": "Who is the author of the novel 'The Great Gatsby'?",
+        "o": ["F. Scott Fitzgerald", "Ernest Hemingway", "Harper Lee", "George Orwell"],
+        "a": "F. Scott Fitzgerald"
+      },
+      {
+        "q": "Which river flows through Cairo?",
+        "o": ["Nile River", "Amazon River", "Thames River", "Yangtze River"],
+        "a": "Nile River"
+      },
+      {
+        "q": "What is the chemical symbol for silver?",
+        "o": ["Si", "Ag", "Sv", "Sl"],
+        "a": "Ag"
+      },
+      {
+        "q": "Who is the author of the novel 'Pride and Prejudice'?",
+        "o": ["Emily Bronte", "Charlotte Bronte", "Jane Austen", "Virginia Woolf"],
+        "a": "Jane Austen"
+      },
+      {
+        "q": "Which country is famous for the ancient ruins of Machu Picchu?",
+        "o": ["Brazil", "Peru", "Mexico", "Argentina"],
+        "a": "Peru"
+      },
+      {
+        "q": "What is the chemical symbol for helium?",
+        "o": ["H", "He", "Hy", "Ha"],
+        "a": "He"
+      },
+      {
+        "q": "What is the largest planet in our solar system?",
+        "o": ["Mercury", "Venus", "Saturn", "Jupiter"],
+        "a": "Jupiter"
+      },
+      {
+        "q": "Who is known as the 'Father of Modern Physics'?",
+        "o": ["Albert Einstein", "Galileo Galilei", "Isaac Newton", "Max Planck"],
+        "a": "Albert Einstein"
+      },
+      {
+        "q": "Which country is known as the 'Land of the Rising Sun'?",
+        "o": ["China", "South Korea", "Japan", "Thailand"],
+        "a": "Japan"
+      },
+      {
+        "q": "What is the largest organ in the human body?",
+        "o": ["Heart", "Liver", "Brain", "Skin"],
+        "a": "Skin"
+      },
+      {
+        "q": "What is the capital city of Spain?",
+        "o": ["Barcelona", "Madrid", "Seville", "Valencia"],
+        "a": "Madrid"
+      },
+      {
+        "q": "In which year did the Titanic sink?",
+        "o": ["1908", "1912", "1916", "1920"],
+        "a": "1912"
+      },
+      {
+        "q": "What is the chemical symbol for oxygen?",
+        "o": ["O", "Ox", "O2", "Oy"],
+        "a": "O"
+      },
+      {
+        "q": "Who developed the theory of evolution by natural selection?",
+        "o": ["Charles Darwin", "Isaac Newton", "Marie Curie", "Gregor Mendel"],
+        "a": "Charles Darwin"
+      },
+      {
+        "q": "Which city hosted the 2016 Summer Olympics?",
+        "o": ["Beijing", "London", "Rio de Janeiro", "Tokyo"],
+        "a": "Rio de Janeiro"
+      },
+      {
+        "q": "What is the chemical symbol for carbon?",
+        "o": ["C", "Ca", "Co", "Cr"],
+        "a": "C"
+      },
+      {
+        "q": "What is the largest species of shark?",
+        "o": ["Great White Shark", "Hammerhead Shark", "Whale Shark", "Tiger Shark"],
+        "a": "Whale Shark"
+      },
+      {
+        "q": "Which country is known as the 'Land of the Midnight Sun'?",
+        "o": ["Norway", "Sweden", "Finland", "Denmark"],
+        "a": "Norway"
+      },
+      {
+        "q": "What is the capital city of South Africa?",
+        "o": ["Pretoria", "Cape Town", "Durban", "Johannesburg"],
+        "a": "Pretoria"
+      },
+      {
+        "q": "Who wrote the play 'The Importance of Being Earnest'?",
+        "o": ["Oscar Wilde", "George Bernard Shaw", "Tennessee Williams", "Samuel Beckett"],
+        "a": "Oscar Wilde"
+      },
+      {
+        "q": "What is the largest type of penguin?",
+        "o": ["King Penguin", "Emperor Penguin", "Gentoo Penguin", "Adélie Penguin"],
+        "a": "Emperor Penguin"
+      },
+      {
+        "q": "Which country is famous for its tulip fields?",
+        "o": ["Netherlands", "Italy", "Turkey", "Switzerland"],
+        "a": "Netherlands"
+      },
+      {
+        "q": "What is the chemical symbol for uranium?",
+        "o": ["U", "Un", "Ur", "Up"],
+        "a": "U"
+      },
+      {
+        "q": "Which river flows through Cairo?",
+        "o": ["Nile River", "Amazon River", "Thames River", "Yangtze River"],
+        "a": "Nile River"
+      },
+      {
+        "q": "What is the chemical symbol for silver?",
+        "o": ["Si", "Ag", "Sv", "Sl"],
+        "a": "Ag"
+      },
+      {
+        "q": "Which country is famous for the ancient ruins of Machu Picchu?",
+        "o": ["Brazil", "Peru", "Mexico", "Argentina"],
+        "a": "Peru"
+      },
+      {
+        "q": "What is the chemical symbol for helium?",
+        "o": ["H", "He", "Hy", "Ha"],
+        "a": "He"
+      },
+      {
+        "q": "Who painted the famous artwork 'Starry Night'?",
+        "o": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci", "Claude Monet"],
+        "a": "Vincent van Gogh"
+      },
+      {
+        "q": "Which country is known for its pyramids, including the Pyramid of Giza?",
+        "o": ["Greece", "Egypt", "India", "Mexico"],
+        "a": "Egypt"
+      },
+      {
+        "q": "What is the chemical symbol for nitrogen?",
+        "o": ["N", "Ni", "Ne", "Na"],
+        "a": "N"
+      },
+      {
+        "q": "Who wrote the play 'Hamlet'?",
+        "o": ["William Shakespeare", "Anton Chekhov", "Leo Tolstoy", "Oscar Wilde"],
+        "a": "William Shakespeare"
+      },
+      {
+        "q": "Which planet is known as the 'Red Planet'?",
+        "o": ["Mars", "Venus", "Mercury", "Jupiter"],
+        "a": "Mars"
+      },
+      {
+        "q": "What is the capital of France?",
+        "o": ["Madrid", "Paris", "Rome", "London"],
+        "a": "Paris"
+      },
+      {
+        "q": "Which famous scientist developed the theory of general relativity?",
+        "o": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Marie Curie"],
+        "a": "Albert Einstein"
+      },
+      {
+        "q": "In which country is the Great Barrier Reef located?",
+        "o": ["Australia", "Brazil", "Canada", "India"],
+        "a": "Australia"
+      },
+      {
+        "q": "What is the largest mammal in the world?",
+        "o": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+        "a": "Blue Whale"
+      },
+      {
+        "q": "Which famous artist painted the 'Mona Lisa'?",
+        "o": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci", "Salvador Dali"],
+        "a": "Leonardo da Vinci"
+      },
+      {
+        "q": "What is the national flower of Japan?",
+        "o": ["Cherry Blossom", "Rose", "Lily", "Tulip"],
+        "a": "Cherry Blossom"
+      },
+      {
+        "q": "Which mountain range is located in South America?",
+        "o": ["Rocky Mountains", "Alps", "Andes", "Himalayas"],
+        "a": "Andes"
+      },
+      {
+        "q": "Who wrote the famous novel '1984'?",
+        "o": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "F. Scott Fitzgerald"],
+        "a": "George Orwell"
+      },
+      {
+        "q": "Which country is known as the 'Land of the Rising Sun'?",
+        "o": ["China", "South Korea", "Japan", "Thailand"],
+        "a": "Japan"
+      },
+      {
+        "q": "What is the largest ocean in the world?",
+        "o": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "a": "Pacific Ocean"
+      },
+      {
+        "q": "Who is known as the 'Father of Modern Physics'?",
+        "o": ["Albert Einstein", "Galileo Galilei", "Isaac Newton", "Max Planck"],
+        "a": "Albert Einstein"
+      },
+      {
+        "q": "In which city was the first modern Olympic Games held in 1896?",
+        "o": ["Paris", "London", "Athens", "Rome"],
+        "a": "Athens"
+      },
+      {
+        "q": "What is the largest desert in the world?",
+        "o": ["Gobi Desert", "Sahara Desert", "Arabian Desert", "Atacama Desert"],
+        "a": "Sahara Desert"
+      },
+      {
+        "q": "Who is the author of the 'Harry Potter' book series?",
+        "o": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Suzanne Collins"],
+        "a": "J.K. Rowling"
+      },
+      {
+        "q": "Which river is the longest in the world?",
+        "o": ["Nile River", "Amazon River", "Mississippi River", "Yangtze River"],
+        "a": "Nile River"
+      },
+      {
+        "q": "Who wrote the play 'Macbeth'?",
+        "o": ["William Shakespeare", "Jane Austen", "Leo Tolstoy", "Emily Dickinson"],
+        "a": "William Shakespeare"
+      },
+      {
+        "q": "What is the capital city of Brazil?",
+        "o": ["Rio de Janeiro", "Sao Paulo", "Brasilia", "Buenos Aires"],
+        "a": "Brasilia"
+      },
+      {
+        "q": "What is the chemical symbol for nitrogen?",
+        "o": ["N", "Ni", "Ne", "Na"],
+        "a": "N"
+      },
+      {
+        "q": "Which famous scientist developed the theory of evolution by natural selection?",
+        "o": ["Charles Darwin", "Isaac Newton", "Marie Curie", "Gregor Mendel"],
+        "a": "Charles Darwin"
+      },
+      {
+        "q": "Which movie is known for the quote 'May the Force be with you'?",
+        "o": ["Star Wars: A New Hope", "The Lord of the Rings: The Fellowship of the Ring", "Harry Potter and the Sorcerer's Stone", "The Matrix"],
+        "a": "Star Wars: A New Hope"
+      },
+      {
+        "q": "Who played the character of Jack Dawson in the movie 'Titanic'?",
+        "o": ["Brad Pitt", "Tom Cruise", "Leonardo DiCaprio", "Johnny Depp"],
+        "a": "Leonardo DiCaprio"
+      },
+      {
+        "q": "In which movie would you find the character Darth Vader?",
+        "o": ["The Lord of the Rings: The Return of the King", "The Matrix", "Star Wars: The Empire Strikes Back", "Jurassic Park"],
+        "a": "Star Wars: The Empire Strikes Back"
+      },
+      {
+        "q": "Which movie features a young lion prince named Simba?",
+        "o": ["Finding Nemo", "The Lion King", "Madagascar", "Beauty and the Beast"],
+        "a": "The Lion King"
+      },
+      {
+        "q": "Who played the iconic character of James Bond in 'Skyfall'?",
+        "o": ["Daniel Craig", "Pierce Brosnan", "Sean Connery", "Roger Moore"],
+        "a": "Daniel Craig"
+      },
+      {
+        "q": "In which movie would you find the character Hannibal Lecter?",
+        "o": ["The Silence of the Lambs", "Seven", "American Psycho", "Psycho"],
+        "a": "The Silence of the Lambs"
+      },
+      {
+        "q": "Which movie follows the adventures of Woody and Buzz Lightyear?",
+        "o": ["Toy Story", "Shrek", "Frozen", "Moana"],
+        "a": "Toy Story"
+      },
+      {
+        "q": "Who directed the movie 'The Shawshank Redemption'?",
+        "o": ["Martin Scorsese", "Steven Spielberg", "Christopher Nolan", "Frank Darabont"],
+        "a": "Frank Darabont"
+      },
+      {
+        "q": "In the movie 'Forrest Gump', what does Forrest say life is like?",
+        "o": ["A box of chocolates", "A rollercoaster ride", "A never-ending journey", "A puzzle"],
+        "a": "A box of chocolates"
+      },
+      {
+        "q": "Which movie features a clownfish named Marlin searching for his son Nemo?",
+        "o": ["Finding Nemo", "The Little Mermaid", "Shark Tale", "Ratatouille"],
+        "a": "Finding Nemo"
+      },
+      {
+        "q": "Who played the character of Captain Jack Sparrow in the 'Pirates of the Caribbean' series?",
+        "o": ["Brad Pitt", "Johnny Depp", "Tom Hanks", "Robert Downey Jr."],
+        "a": "Johnny Depp"
+      },
+      {
+        "q": "In the movie 'The Matrix', what color pill does Neo take?",
+        "o": ["Red", "Blue", "Green", "Yellow"],
+        "a": "Red"
+      },
+      {
+        "q": "Which movie is about a clownfish named Dory suffering from short-term memory loss?",
+        "o": ["Finding Nemo", "The Little Mermaid", "Shark Tale", "Ratatouille"],
+        "a": "Finding Nemo"
+      },
+      {
+        "q": "Who directed the movie 'Inception'?",
+        "o": ["Martin Scorsese", "Steven Spielberg", "Christopher Nolan", "James Cameron"],
+        "a": "Christopher Nolan"
+      },
+      {
+        "q": "Which movie is about a young girl named Dorothy who gets transported to a magical land?",
+        "o": ["Alice in Wonderland", "The Wizard of Oz", "Cinderella", "Sleeping Beauty"],
+        "a": "The Wizard of Oz"
+      },
+      {
+        "q": "Who played the character of Tony Stark/Iron Man in the Marvel Cinematic Universe?",
+        "o": ["Robert Downey Jr.", "Chris Hemsworth", "Chris Evans", "Mark Ruffalo"],
+        "a": "Robert Downey Jr."
+      },
+      {
+        "q": "Which movie features a clownfish named Nemo searching for his father Marlin?",
+        "o": ["Finding Nemo", "The Little Mermaid", "Shark Tale", "Ratatouille"],
+        "a": "Finding Nemo"
+      },
+      {
+        "q": "In 'The Godfather' movie series, who played the role of Michael Corleone?",
+        "o": ["Robert De Niro", "Al Pacino", "Marlon Brando", "Joe Pesci"],
+        "a": "Al Pacino"
+      },
+      {
+        "q": "Which movie tells the story of a young boy named Elliott and his friendship with an extraterrestrial?",
+        "o": ["E.T. the Extra-Terrestrial", "Close Encounters of the Third Kind", "Men in Black", "Alien"],
+        "a": "E.T. the Extra-Terrestrial"
+      },
+      {
+        "q": "Who played the character of the Joker in the movie 'The Dark Knight'?",
+        "o": ["Heath Ledger", "Joaquin Phoenix", "Jared Leto", "Jack Nicholson"],
+        "a": "Heath Ledger"
+      },
+      {
+        "q": "What is the main ingredient in guacamole?",
+        "o": ["Avocado", "Tomato", "Onion", "Mango"],
+        "a": "Avocado"
+      },
+      {
+        "q": "Which spice is known as 'the queen of spices'?",
+        "o": ["Cinnamon", "Turmeric", "Vanilla", "Saffron"],
+        "a": "Saffron"
+      },
+      {
+        "q": "What is the Italian dish made of thinly sliced raw meat or fish, typically served as an appetizer?",
+        "o": ["Bruschetta", "Lasagna", "Carpaccio", "Frittata"],
+        "a": "Carpaccio"
+      },
+      {
+        "q": "What type of pasta is shaped like small rice grains?",
+        "o": ["Orzo", "Penne", "Fusilli", "Farfalle"],
+        "a": "Orzo"
+      },
+      {
+        "q": "Which fruit is known as 'the king of fruits' and has a strong, distinctive odor?",
+        "o": ["Mango", "Pineapple", "Durian", "Papaya"],
+        "a": "Durian"
+      },
+      {
+        "q": "What is the traditional Japanese dish of fermented soybeans?",
+        "o": ["Sushi", "Sashimi", "Miso Soup", "Natto"],
+        "a": "Natto"
+      },
+      {
+        "q": "Which nut is used to make marzipan?",
+        "o": ["Almond", "Cashew", "Peanut", "Walnut"],
+        "a": "Almond"
+      },
+      {
+        "q": "What is the main ingredient in the Indian dish 'palak paneer'?",
+        "o": ["Cauliflower", "Chickpeas", "Spinach", "Paneer (Indian cheese)"],
+        "a": "Spinach"
+      },
+      {
+        "q": "Which country is known for inventing the sandwich?",
+        "o": ["France", "Italy", "England", "United States"],
+        "a": "England"
+      },
+      {
+        "q": "What is the popular Mexican dish made of a deep-fried tortilla filled with meat, beans, and cheese?",
+        "o": ["Enchilada", "Taco", "Burrito", "Chimichanga"],
+        "a": "Chimichanga"
+      },
+      {
+        "q": "What is the main ingredient in traditional pesto sauce?",
+        "o": ["Tomato", "Basil", "Eggplant", "Parsley"],
+        "a": "Basil"
+      },
+      {
+        "q": "Which vegetable is known as 'ladies' fingers'?",
+        "o": ["Eggplant", "Okra", "Bell Pepper", "Carrot"],
+        "a": "Okra"
+      },
+      {
+        "q": "What type of bread is commonly used to make bruschetta?",
+        "o": ["Sourdough", "Baguette", "Ciabatta", "Rye"],
+        "a": "Baguette"
+      },
+      {
+        "q": "Which popular dessert originated in France and consists of custard topped with caramelized sugar?",
+        "o": ["Tiramisu", "Crème Brûlée", "Panna Cotta", "Mousse"],
+        "a": "Crème Brûlée"
+      },
+      {
+        "q": "What is the primary ingredient in hummus?",
+        "o": ["Chickpeas", "Lentils", "Black Beans", "Kidney Beans"],
+        "a": "Chickpeas"
+      },
+      {
+        "q": "Which fruit is known as 'the forbidden fruit'?",
+        "o": ["Apple", "Banana", "Orange", "Pomegranate"],
+        "a": "Apple"
+      },
+      {
+        "q": "What type of fish is the main ingredient in traditional fish and chips?",
+        "o": ["Cod", "Salmon", "Tuna", "Trout"],
+        "a": "Cod"
+      },
+      {
+        "q": "What is the main ingredient in the Japanese soup 'miso soup'?",
+        "o": ["Seaweed", "Tofu", "Miso paste", "Ramen noodles"],
+        "a": "Miso paste"
+      },
+      {
+        "q": "Which fruit is known as 'the king of berries'?",
+        "o": ["Blueberry", "Strawberry", "Raspberry", "Blackberry"],
+        "a": "Raspberry"
+      },
+      {
+        "q": "What is the Italian dish made of thinly sliced meat, often served with an arugula and Parmesan salad?",
+        "o": ["Bolognese", "Carbonara", "Risotto", "Carpaccio"],
+        "a": "Carpaccio"
+      },
+      {
+        "q": "In which book series does the character Harry Potter attend Hogwarts School of Witchcraft and Wizardry?",
+        "o": ["The Chronicles of Narnia", "Percy Jackson & The Olympians", "The Hunger Games", "Harry Potter"],
+        "a": "Harry Potter"
+      },
+      {
+        "q": "Which book features the character Katniss Everdeen volunteering as a tribute in the Hunger Games?",
+        "o": ["Divergent", "The Maze Runner", "The Giver", "The Hunger Games"],
+        "a": "The Hunger Games"
+      },
+      {
+        "q": "Who is the protagonist of 'The Catcher in the Rye'?",
+        "o": ["Holden Caulfield", "Jay Gatsby", "Santiago", "Winston Smith"],
+        "a": "Holden Caulfield"
+      },
+      {
+        "q": "In 'To Kill a Mockingbird', who is the lawyer defending Tom Robinson?",
+        "o": ["Atticus Finch", "Jem Finch", "Boo Radley", "Scout Finch"],
+        "a": "Atticus Finch"
+      },
+      {
+        "q": "Which book series follows the adventures of Percy Jackson, a demigod son of Poseidon?",
+        "o": ["Harry Potter", "The Lord of the Rings", "Percy Jackson & The Olympians", "The Hunger Games"],
+        "a": "Percy Jackson & The Olympians"
+      },
+      {
+        "q": "Who is the main character and narrator of 'The Great Gatsby'?",
+        "o": ["Jay Gatsby", "Nick Carraway", "Daisy Buchanan", "Tom Buchanan"],
+        "a": "Nick Carraway"
+      },
+      {
+        "q": "In 'The Hobbit', who is the hobbit that embarks on an adventure to the Lonely Mountain?",
+        "o": ["Frodo Baggins", "Samwise Gamgee", "Bilbo Baggins", "Gandalf"],
+        "a": "Bilbo Baggins"
+      },
+      {
+        "q": "Which book series follows the journey of a young wizard named Frodo to destroy the One Ring?",
+        "o": ["The Hobbit", "Harry Potter", "The Lord of the Rings", "The Chronicles of Narnia"],
+        "a": "The Lord of the Rings"
+      },
+      {
+        "q": "In 'The Chronicles of Narnia', which character is the true king of Narnia?",
+        "o": ["Lucy Pevensie", "Edmund Pevensie", "Peter Pevensie", "Aslan"],
+        "a": "Aslan"
+      },
+      {
+        "q": "Who is the protagonist of 'The Hunger Games' series?",
+        "o": ["Katniss Everdeen", "Peeta Mellark", "Primrose Everdeen", "Gale Hawthorne"],
+        "a": "Katniss Everdeen"
+      },
+      {
+        "q": "In 'The Giver', who is chosen to be the new Receiver of Memories?",
+        "o": ["Jonas", "Asher", "Fiona", "Gabriel"],
+        "a": "Jonas"
+      },
+      {
+        "q": "Which book follows the life of a boy named Amir growing up in Afghanistan?",
+        "o": ["The Kite Runner", "A Thousand Splendid Suns", "And the Mountains Echoed", "The Book Thief"],
+        "a": "The Kite Runner"
+      },
+      {
+        "q": "In 'The Book Thief', who is the foster daughter of the Hubermanns?",
+        "o": ["Liesel Meminger", "Rudy Steiner", "Max Vandenburg", "Hans Hubermann"],
+        "a": "Liesel Meminger"
+      },
+      {
+        "q": "Who is the main character in 'The Fault in Our Stars', a novel about two teenagers with cancer?",
+        "o": ["Hazel Grace Lancaster", "Augustus Waters", "Isaac", "Gus's Father"],
+        "a": "Hazel Grace Lancaster"
+      },
+      {
+        "q": "In 'The Maze Runner', what is the name of the protagonist who wakes up in a maze with no memory?",
+        "o": ["Thomas", "Newt", "Minho", "Alby"],
+        "a": "Thomas"
+      },
+      {
+        "q": "Which book follows the journey of a young girl named Liesel during World War II?",
+        "o": ["The Diary of a Young Girl", "Number the Stars", "The Book Thief", "The Boy in the Striped Pyjamas"],
+        "a": "The Book Thief"
+      },
+      {
+        "q": "Who is known as the 'King of Pop'?",
+        "o": ["Elvis Presley", "Michael Jackson", "David Bowie", "Prince"],
+        "a": "Michael Jackson"
+      },
+      {
+        "q": "Which British rock band is known for the hit song 'Bohemian Rhapsody'?",
+        "o": ["The Rolling Stones", "Queen", "The Beatles", "Led Zeppelin"],
+        "a": "Queen"
+      },
+      {
+        "q": "What is the best-selling album of all time?",
+        "o": ["Thriller by Michael Jackson", "The Dark Side of the Moon by Pink Floyd", "Back in Black by AC/DC", "Rumours by Fleetwood Mac"],
+        "a": "Thriller by Michael Jackson"
+      },
+      {
+        "q": "Who was the lead vocalist of the rock band 'Nirvana'?",
+        "o": ["Kurt Cobain", "Eddie Vedder", "Chris Cornell", "Dave Grohl"],
+        "a": "Kurt Cobain"
+      },
+      {
+        "q": "Which famous singer is known for hits like 'Someone Like You' and 'Rolling in the Deep'?",
+        "o": ["Taylor Swift", "Adele", "Beyoncé", "Rihanna"],
+        "a": "Adele"
+      },
+      {
+        "q": "What is the name of Beyoncé's alter ego, through which she releases more provocative music?",
+        "o": ["Sasha Fierce", "Queen Bee", "Lady B", "Bey-Hive"],
+        "a": "Sasha Fierce"
+      },
+      {
+        "q": "Which legendary guitarist is known for his iconic song 'Purple Haze'?",
+        "o": ["Jimi Hendrix", "Eric Clapton", "Jimmy Page", "Stevie Ray Vaughan"],
+        "a": "Jimi Hendrix"
+      },
+      {
+        "q": "What is the name of the Canadian singer who released the hit single 'Sorry'?",
+        "o": ["Shawn Mendes", "Justin Bieber", "The Weeknd", "Drake"],
+        "a": "Justin Bieber"
+      },
+      {
+        "q": "Which artist is known for the album 'Lemonade' and the song 'Formation'?",
+        "o": ["Beyoncé", "Rihanna", "Ariana Grande", "Nicki Minaj"],
+        "a": "Beyoncé"
+      },
+      {
+        "q": "Who is the lead singer of the rock band 'The Rolling Stones'?",
+        "o": ["Mick Jagger", "Keith Richards", "Paul McCartney", "Robert Plant"],
+        "a": "Mick Jagger"
+      },
+      {
+        "q": "Which American rapper is known for his album 'good kid, m.A.A.d city'?",
+        "o": ["Kanye West", "J. Cole", "Kendrick Lamar", "Drake"],
+        "a": "Kendrick Lamar"
+      },
+      {
+        "q": "Which British singer-songwriter is known for hits like 'Thinking Out Loud' and 'Shape of You'?",
+        "o": ["Adele", "Sam Smith", "Ed Sheeran", "George Ezra"],
+        "a": "Ed Sheeran"
+      },
+      {
+        "q": "What was the first music video ever played on MTV?",
+        "o": ["'Billie Jean' by Michael Jackson", "'Bohemian Rhapsody' by Queen", "'Video Killed the Radio Star' by The Buggles", "'Like a Virgin' by Madonna"],
+        "a": "'Video Killed the Radio Star' by The Buggles"
+      },
+      {
+        "q": "Which American singer is known as the 'Queen of Pop'?",
+        "o": ["Britney Spears", "Madonna", "Lady Gaga", "Janet Jackson"],
+        "a": "Madonna"
+      },
+      {
+        "q": "Who was the lead vocalist of the rock band 'Queen'?",
+        "o": ["Freddie Mercury", "Roger Taylor", "John Deacon", "Brian May"],
+        "a": "Freddie Mercury"
+      },
+      {
+        "q": "Which iconic artist is known for the song 'Purple Rain'?",
+        "o": ["David Bowie", "Prince", "Elton John", "George Michael"],
+        "a": "Prince"
+      },
+      {
+        "q": "Who is the Canadian singer-songwriter known for hits like 'Hotline Bling' and 'God's Plan'?",
+        "o": ["Drake", "The Weeknd", "Justin Bieber", "Shawn Mendes"],
+        "a": "Drake"
+      },
+      {
+        "q": "Which female artist's real name is Robyn Fenty, and is known for hits like 'Umbrella' and 'Diamonds'?",
+        "o": ["Ariana Grande", "Rihanna", "Beyoncé", "Taylor Swift"],
+        "a": "Rihanna"
+      },
+      {
+        "q": "Which British band is known for hits like 'Yellow' and 'Viva la Vida'?",
+        "o": ["Coldplay", "Mumford & Sons", "Radiohead", "The Beatles"],
+        "a": "Coldplay"
+      },
+      {
+        "q": "Who is the American singer-songwriter known for songs like 'All of Me' and 'Ordinary People'?",
+        "o": ["Bruno Mars", "John Legend", "Sam Smith", "Jason Mraz"],
+        "a": "John Legend"
+      },
+      {
+        "q": "Which company was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in a garage?",
+        "o": ["Microsoft", "Apple", "Google", "Amazon"],
+        "a": "Apple"
+      },
+      {
+        "q": "What company was originally named 'BackRub' before changing its name to what it is today?",
+        "o": ["Yahoo", "eBay", "Amazon", "Google"],
+        "a": "Google"
+      },
+      {
+        "q": "Who founded Amazon in his garage as an online bookstore?",
+        "o": ["Jeff Bezos", "Bill Gates", "Elon Musk", "Mark Zuckerberg"],
+        "a": "Jeff Bezos"
+      },
+      {
+        "q": "Which company's first product was the MP3 player named 'Rio'?",
+        "o": ["Sony", "Samsung", "Apple", "Microsoft"],
+        "a": "Apple"
+      },
+      {
+        "q": "What company's original name was 'Jerry's Guide to the World Wide Web'?",
+        "o": ["Alibaba", "eBay", "Amazon", "Yahoo"],
+        "a": "Yahoo"
+      },
+      {
+        "q": "Which company started as an online auction site and became popular for buying and selling goods?",
+        "o": ["Amazon", "eBay", "Alibaba", "Google"],
+        "a": "eBay"
+      },
+      {
+        "q": "Who founded Microsoft with his childhood friend Paul Allen?",
+        "o": ["Steve Jobs", "Bill Gates", "Elon Musk", "Mark Zuckerberg"],
+        "a": "Bill Gates"
+      },
+      {
+        "q": "What company was originally a DVD rental service by mail before transitioning to a streaming service?",
+        "o": ["Hulu", "Netflix", "Disney+", "Prime Video"],
+        "a": "Netflix"
+      },
+      {
+        "q": "Which company's original motto was 'Don't be evil'?",
+        "o": ["Microsoft", "Facebook", "Amazon", "Google"],
+        "a": "Google"
+      },
+      {
+        "q": "Who co-founded the social media platform Facebook while attending Harvard University?",
+        "o": ["Jeff Bezos", "Bill Gates", "Elon Musk", "Mark Zuckerberg"],
+        "a": "Mark Zuckerberg"
+      },
+      {
+        "q": "What company started as an online bookstore and later expanded to sell various products?",
+        "o": ["Amazon", "eBay", "Alibaba", "Walmart"],
+        "a": "Amazon"
+      },
+      {
+        "q": "Which company was originally named 'Cadabra' before changing its name to avoid confusion with 'cadaver'?",
+        "o": ["Alibaba", "eBay", "Amazon", "Google"],
+        "a": "Amazon"
+      },
+      {
+        "q": "Who founded SpaceX with the goal of reducing space transportation costs and enabling the colonization of Mars?",
+        "o": ["Jeff Bezos", "Bill Gates", "Elon Musk", "Mark Zuckerberg"],
+        "a": "Elon Musk"
+      },
+      {
+        "q": "What company was founded in China and is known for its e-commerce platform connecting buyers and sellers?",
+        "o": ["Amazon", "eBay", "Alibaba", "Walmart"],
+        "a": "Alibaba"
+      },
+      {
+        "q": "Which company was founded by Reed Hastings and Marc Randolph, primarily as a DVD rental-by-mail service?",
+        "o": ["Hulu", "Netflix", "Disney+", "Prime Video"],
+        "a": "Netflix"
+      },
+      {
+        "q": "Who is the founder of Tesla, a company known for its electric vehicles and renewable energy solutions?",
+        "o": ["Jeff Bezos", "Bill Gates", "Elon Musk", "Mark Zuckerberg"],
+        "a": "Elon Musk"
+      },
+      {
+        "q": "What company's original name was 'AuctionWeb' before becoming what it is today?",
+        "o": ["Yahoo", "eBay", "Amazon", "Google"],
+        "a": "eBay"
+      },
+      {
+        "q": "Who co-founded Microsoft with Bill Gates and later became a philanthropist?",
+        "o": ["Steve Jobs", "Paul Allen", "Elon Musk", "Mark Zuckerberg"],
+        "a": "Paul Allen"
+      },
+      {
+        "q": "What company is known for its video-sharing platform and was acquired by Google?",
+        "o": ["Instagram", "Snapchat", "TikTok", "YouTube"],
+        "a": "YouTube"
+      },
+      {
+        "q": "Who founded SpaceX with the goal of reducing space transportation costs and enabling the colonization of Mars?",
+        "o": ["Jeff Bezos", "Bill Gates", "Elon Musk", "Mark Zuckerberg"],
+        "a": "Elon Musk"
+      },
+      {
+        "q": "What is the tallest building in the world and where is it located?",
+        "o": ["Burj Khalifa, Dubai", "Shanghai Tower, Shanghai", "One World Trade Center, New York City", "Petronas Towers, Kuala Lumpur"],
+        "a": "Burj Khalifa, Dubai"
+      },
+      {
+        "q": "Which African country is famous for its annual migration of wildebeests and zebras?",
+        "o": ["Tanzania", "Kenya", "South Africa", "Botswana"],
+        "a": "Tanzania"
+      },
+      {
+        "q": "What is the largest coral reef system in the world?",
+        "o": ["Great Barrier Reef, Australia", "Mesoamerican Barrier Reef, Mexico-Belize-Honduras", "Coral Triangle, Indonesia-Malaysia-Philippines", "Red Sea Coral Reef"],
+        "a": "Great Barrier Reef, Australia"
+      },
+      {
+        "q": "Which city is known as the 'City of Love' and famous for its romantic ambiance?",
+        "o": ["Venice", "Paris", "Vienna", "Barcelona"],
+        "a": "Paris"
+      },
+      {
+        "q": "What is the most visited theme park in the world?",
+        "o": ["Disneyland, California, USA", "Magic Kingdom, Florida, USA", "Tokyo Disneyland, Japan", "Universal Studios Japan, Osaka"],
+        "a": "Magic Kingdom, Florida, USA"
+      },
+      {
+        "q": "Which iconic waterfall is located on the border of the United States and Canada?",
+        "o": ["Angel Falls", "Iguazu Falls", "Niagara Falls", "Victoria Falls"],
+        "a": "Niagara Falls"
+      },
+      {
+        "q": "What is the official residence of the Pope in Vatican City?",
+        "o": ["St. Peter's Basilica", "Sistine Chapel", "Apostolic Palace", "Vatican Museums"],
+        "a": "Apostolic Palace"
+      },
+      {
+        "q": "Which country is home to the ancient city of Machu Picchu?",
+        "o": ["Peru", "Mexico", "Colombia", "Ecuador"],
+        "a": "Peru"
+      },
+      {
+        "q": "What is the largest national park in the United States, located in Alaska?",
+        "o": ["Yellowstone National Park", "Grand Canyon National Park", "Yosemite National Park", "Denali National Park"],
+        "a": "Denali National Park"
+      },
+      {
+        "q": "Which city is famous for its historical significance during the American Revolutionary War and the Liberty Bell?",
+        "o": ["New York City", "Philadelphia", "Boston", "Washington D.C."],
+        "a": "Philadelphia"
+      },
+      {
+        "q": "What is the capital city of Japan?",
+        "o": ["Shanghai", "Beijing", "Seoul", "Tokyo"],
+        "a": "Tokyo"
+      },
+      {
+        "q": "Which European city is known for its canals and gondolas?",
+        "o": ["Amsterdam", "Venice", "Copenhagen", "Stockholm"],
+        "a": "Venice"
+      },
+      {
+        "q": "What is the famous ancient wonder located in Egypt?",
+        "o": ["The Colosseum", "The Parthenon", "The Great Pyramid of Giza", "The Taj Mahal"],
+        "a": "The Great Pyramid of Giza"
+      },
+      {
+        "q": "Which city is known for its historical significance during the American Civil Rights Movement and the Martin Luther King Jr. National Historic Park?",
+        "o": ["Atlanta", "Memphis", "New Orleans", "Montgomery"],
+        "a": "Atlanta"
+      },
+      {
+        "q": "What is the tallest mountain in the world?",
+        "o": ["Mount Kilimanjaro", "Mount Everest", "Mount McKinley (Denali)", "Mount Aconcagua"],
+        "a": "Mount Everest"
+      },
+      {
+        "q": "Which Caribbean island is famous for its white sandy beaches and clear blue waters?",
+        "o": ["Aruba", "Jamaica", "Bahamas", "Barbados"],
+        "a": "Aruba"
+      },
+      {
+        "q": "What is the famous ancient Incan citadel located high in the Andes Mountains of Peru?",
+        "o": ["Chichen Itza", "Machu Picchu", "Tikal", "Teotihuacan"],
+        "a": "Machu Picchu"
+      },
+      {
+        "q": "Which African country is known for its wildlife safaris in Serengeti National Park and Ngorongoro Conservation Area?",
+        "o": ["Kenya", "South Africa", "Tanzania", "Botswana"],
+        "a": "Tanzania"
+      },
+      {
+        "q": "What is the iconic tower located in Paris, France?",
+        "o": ["Eiffel Tower", "Leaning Tower of Pisa", "Tower Bridge", "CN Tower"],
+        "a": "Eiffel Tower"
+      },
+      {
+        "q": "Which country is known for its picturesque landscape of fjords, glaciers, and mountains?",
+        "o": ["Norway", "Iceland", "New Zealand", "Switzerland"],
+        "a": "Norway"
+      }
+    ]
+  }
+  

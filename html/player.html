@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NoelBox - {{ roomName }} ({{ gameId }})</title>
+
+    <script src="/socket.js"></script>
+    <link rel="stylesheet" href="/player.css">
+</head>
+<body>
+    <div class="topbar">
+        <p id="nb">NoelBox</p>
+
+        <p id="pas">
+            <span class="pn">{{ userName }}</span>
+            -
+            <span class="gi">{{ gameId }}</span>
+        </p>
+    </div>
+
+    <div id="gameContainer">
+        <div id="waiting-start" class="gs">
+            <h1>Waiting for host...</h1>
+            <p>Please wait for the host to start the game.</p>
+            <img src="/player.png" alt="PlayerIcon" height="128px" width="128px">
+        </div>
+
+        <div id="question" class="gs" style="display: none">
+            <h1 id="questionNum">Question #null</h1>
+        </div>
+    </div>
+
+    <script src="/player.js"></script>
+</body>
+</html>

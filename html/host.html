@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NoelBox Host - {{ gameId }}</title>
+    
+    <link rel="stylesheet" href="/host.css">
+    <script src="/socket.js"></script>
+</head>
+<body>
+    <p id="nb">NoelBox</p>
+    <p id="gameCode">JOIN WITH CODE <span>{{ gameId }}</span></p>
+
+    <div id="awaiting-players">
+        <h1 id="ap-title">
+            Waiting for players<span class="dots"></span>
+        </h1>
+    </div>
+
+    <div id="host-log"></div>
+
+    <button id="start-game-btn" class="disabled">START GAME</button>
+
+    <script src="/host.js"></script>
+</body>
+</html>
